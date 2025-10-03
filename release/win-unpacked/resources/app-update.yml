@@ -1,0 +1,4 @@
+owner: ai4mcpservers
+repo: electron-typescript-guide
+provider: github
+updaterCacheDirName: prompt-typing-tutor-updater
